@@ -775,7 +775,7 @@ class Ui_MainWindow(object):
         #plt.plot(c,P_stack)
         plt.xlabel('current')
         plt.ylabel('Efficiency')
-        plt.title('EFFICIENCY CURVE')
+        plt.title('Efficiency curve')
         plt.legend()
         plt.show()
 
